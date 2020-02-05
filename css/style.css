@@ -1,0 +1,53 @@
+body {
+    margin-top: 105px; }
+   
+.logo {
+    color:rgb(175, 12, 10);
+}
+
+.navbar{
+        /* box-shadow: 2px 2px 5px #3292a6; */
+        opacity: 0.9;
+        background: #fff; 
+    }
+.navbar .nav-item {
+          font-size: 1.2rem;
+          padding-right: 1.2rem;
+         }
+/* change the link color */
+.navbar-custom-link .navbar-nav .nav-link {
+    
+    text-transform: uppercase;
+    color: rgb(175, 12, 10);
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    background-color: rgb(175, 12, 10);
+    padding: 10px 10px 10px 10px;
+    color: #ffffff;
+}
+
+/* #slider {
+    padding: 20px ;
+} */
+ #service {
+            position: relative;
+            background-color: rgb(175, 12, 10);
+            padding: 30px 0px 50px 0px;
+            color:#fff;
+            
+         }
+         #about {
+            
+        
+            padding: 30px 0px 50px 10px;
+            margin-top: 20px;
+            
+            
+         }
+footer
+{
+    background-color: #af0c0a;
+    color:#fff;
+}
